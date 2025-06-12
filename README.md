@@ -89,3 +89,5 @@ You now have:
 A working YouTube plugin for Xbox
 No API key limits
 Full local control over quality and functionality
+
+Make sure you are using xbmc4xbox from rocky5 you can get it from his site downloader or xbmc4gamer downloader
